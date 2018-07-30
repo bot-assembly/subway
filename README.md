@@ -1,16 +1,16 @@
-#subway
+# subway
 A program that finds routes through a node using A*.
 
-##Installation
+## Installation
 This programs uses Leiningen (https://leiningen.org/). Run "lein run" at the root of the project folder to start the program.
 
-##Usage
+## Usage
 The program will ask for an origin station. Refer to the subway-map.png diagram in /resources for accepted stations. Station names are lowercase with dashes substituted for spaces. Currently all trips are routed to Jay St Metrotech (jay-st-metrotech).
 
 ...
 
-##Future Work
+## Future Work
 A heuristic function that calculates each stations straight line distance to a selected destination station is planned. ...
 
-#License
+# License
 Copyright © 2018 bot assembly
