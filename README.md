@@ -18,7 +18,7 @@ A heuristic function that calculates each stations straight line distance to a s
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
