@@ -1,32 +1,20 @@
 # subway
 
-FIXME: description
+A program that finds routes through a node using A*.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+This programs uses Leiningen (https://leiningen.org/). Run "lein run" at the root of the project folder to start the program.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar subway-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
+The program will ask for an origin station. Refer to the subway-map.png diagram in /resources for accepted stations. Station names are lowercase with dashes substituted for spaces. Currently all trips are routed to Jay St Metrotech (jay-st-metrotech).
 
 ...
 
-### Bugs
-
+### Future Work
+A heuristic function that calculates each stations straight line distance to a selected destination station is planned.
 ...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
